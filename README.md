@@ -64,6 +64,14 @@ Dockerfile
 
 Cada serviço possui seu próprio README com instruções específicas.
 
+## Documentação da API (Swagger)
+
+A documentação interativa dos endpoints está disponível via Swagger após subir o projeto:
+
+- Acesse: [http://localhost:3000/api](http://localhost:3000/api)
+
+Você pode testar as rotas diretamente pela interface web do Swagger.
+
 ## Observações
 
 - Certifique-se de que as portas 3000, 5672 e 15672 estejam livres.
